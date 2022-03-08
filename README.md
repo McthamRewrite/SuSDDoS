@@ -14,6 +14,7 @@ SUSDDos Not Making Self but will add feture ddos on one srcipt!
 * Python3 
 # Owner OG srcipt is:
 https://github.com/Leeon123 and https://github.com/MHProDev
+* For Windows (FuseDDoS: https://github.com/fusedevgithub/FuseDDoS-Version3)
 # Installing Command
 git clone https://github.com/McthamRewrite/SUSDDOS && cd SUSDDOS && sh install.sh
 # Windows Users:
