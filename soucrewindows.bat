@@ -6,17 +6,19 @@ echo ███████╗██║   ██║███████╗██
 echo ╚════██║██║   ██║╚════██║██║  ██║██║  ██║██║   ██║╚════██║
 echo ███████║╚██████╔╝███████║██████╔╝██████╔╝╚██████╔╝███████║
 echo ╚══════╝ ╚═════╝ ╚══════╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝
-echo Quick Download DDOS QUICK by: PC1266.
+echo Quick Download DDOS QUICK by: Fusedevgithub
+echo Update by notbeandev
 :1
 echo Terms of Services.
-echo This can making someone server is down if using POWERFUL VPS Owner Server got a Attack will can make you go to jail by law. And we will not Clear in law reason you ddos first and you read warning
+echo We are not responsible for any damage caused by this tools, please use it for education only.
+echo "WARNING: Please install python and pip first! make sure you are setting pip, environment variables (if not sure? run cmd and typr pip --version)"
 set /p tos=Do you Agreed? y/n:
 echo.
 if %tos% == y goto need
 if %tos% == n goto notos
 goto :1
 :notos
-echo Okay RISKKKKKKKKKKKKKKKK
+echo Disagreed TOS found!
 pause
 exit
 :need
@@ -38,6 +40,7 @@ cd "DDOS PACK"
 curl -o Flood.zip https://github.com/Leeon123/TCP-UDP-Flood/archive/refs/heads/master.zip -L
 curl -o MHDDOS.zip https://github.com/MHProDev/MHDDoS/archive/refs/heads/main.zip -L
 curl -o MHDDOSOLD.zip https://github.com/MHProDev/MHDDoS/releases/download/Beta/MHDDoS.v1.-.Beta.zip -L
+curl -o FuseDDoS.exe https://github.com/fusedevgithub/FuseDDoS-Version3/releases/download/v1.3.0/FuseDDoS.Version.3.v1.3.0.exe -L
 tar -xf Flood.zip -k
 tar -xf MHDDOS.zip -k
 tar -xf MHDDOSOLD.zip -k
