@@ -11,7 +11,7 @@ echo Update by notbeandev
 :1
 echo Terms of Services.
 echo We are not responsible for any damage caused by this tools, please use it for education only.
-echo "WARNING: Please install python and pip first! make sure you are setting pip, environment variables (if not sure? run cmd and typr pip --version)"
+echo "WARNING: Please install python and pip first! make sure you are setting pip, environment variables (if not sure? run cmd and type pip --version)"
 set /p tos=Do you Agreed? y/n:
 echo.
 if %tos% == y goto need
