@@ -26,6 +26,7 @@ go to folder ATTACK-PACK and boom select a want Folder!
 * MHDDoS - MHDDoS DDos Attack.
 * MHDDoS-old-but-powerful - MHDDoS old Version but this first and last version have hdr attack!
 * TCP-UDP-Flood - Flood Attack can down any server. if using many attack server. or POWERFUL vps.
+* For Windows Install Script: FuseDDoS Version 3 - GUI Attack (Discontiune) 
 # Warning Before using!
 This can making someone server is down if using POWERFUL VPS
 Owner Server got a Attack will can make you go to jail by law.
