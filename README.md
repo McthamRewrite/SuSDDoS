@@ -4,23 +4,23 @@ Using a python3! Normally Will testing with new MCTham Server
 # notice
 SUSDDos Not Making Self but will add feture ddos on one srcipt!
 # Need for before Install Linux.
-* Ubuntu 16.04 or later
+* Ubuntu 16.04 or later or other distro
 * git command support
-* sh file can run!
+* bash
 * if not ubuntu please want sure your linux is can use apt command and sudo!
 # Need For Before Install Windows.
 * Using Windows 10 build 17063 or later
 * If you not do using Windows 10 you need Import Curl and tar!
 * Python3 
-# Owner OG srcipt is:
+# Owner Original srcipt is:
 https://github.com/Leeon123 and https://github.com/MHProDev
-* For Windows (FuseDDoS: https://github.com/fusedevgithub/FuseDDoS-Version3)
+* Ultra For Windows (FuseDDoS: https://github.com/fusedevgithub/FuseDDoS-Version3)
 # Installing Command
-git clone https://github.com/McthamRewrite/SUSDDOS && cd SUSDDOS && sh install.sh
+```git clone https://github.com/McthamRewrite/SUSDDOS && cd SUSDDOS && sh install.sh```
 # Windows Users:
 RUN AND CONFIRM IN CMD AND WAIT! PROGRAM WILL INSTALL IN FOLDER DOWNLOAD OR FOLDER YOU DOWNLOAD THIS FILES!
 # Notice for Termux Users!
-edit file install.sh and delete all sudo word.
+```git clone https://github.com/McthamRewrite/SUSDDOS && cd SUSDDOS && sh termux.sh```
 # How to using?
 go to folder ATTACK-PACK and boom select a want Folder!
 * MHDDoS - MHDDoS DDos Attack.
