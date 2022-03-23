@@ -1,4 +1,14 @@
 #!/bin/sh
+echo "
+
+╱╱╱╱╱╱╱╱╱╱╱╭╮╱╭╮
+╱╱╱╱╱╱╱╱╱╱╱┃┃╱┃┃
+╭━━┳╮╭┳━━┳━╯┣━╯┣━━┳━━╮
+┃━━┫┃┃┃━━┫╭╮┃╭╮┃╭╮┃━━┫
+┣━━┃╰╯┣━━┃╰╯┃╰╯┃╰╯┣━━┃
+╰━━┻━━┻━━┻━━┻━━┻━━┻━━╯"
+echo We are not responsible for any damage caused by this script.
+sleep 1
 sudo apt-get update -y
 sudo apt-get install python3-pip -y 
 sudo apt-get install python3 -y 
