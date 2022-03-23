@@ -20,7 +20,7 @@ https://github.com/Leeon123 and https://github.com/MHProDev
 # Windows Users:
 RUN AND CONFIRM IN CMD AND WAIT! PROGRAM WILL INSTALL IN FOLDER DOWNLOAD OR FOLDER YOU DOWNLOAD THIS FILES!
 # Notice for Termux Users!
-~~~```git clone https://github.com/McthamRewrite/SUSDDOS && cd SUSDDOS && sh termux.sh```~~~ I going fix script broken :( don't try
+~```git clone https://github.com/McthamRewrite/SUSDDOS && cd SUSDDOS && sh termux.sh```~ *I going fix script broken :( don't try*
 # How to using?
 go to folder ATTACK-PACK and boom select a want Folder!
 * MHDDoS - MHDDoS DDos Attack.
