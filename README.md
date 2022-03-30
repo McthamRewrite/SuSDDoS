@@ -1,6 +1,8 @@
 # SUSDDOS
 SUSDDoS will kill your. with powerful flood and more!
 Using a python3! Normally Will testing with new MCTham Server
+# Out of dated warning
+* some reason this script will out of dated because mhddos old script be removed.
 # notice
 SUSDDos Not Making Self but will add feture ddos on one srcipt!
 # Need for before Install Linux.
